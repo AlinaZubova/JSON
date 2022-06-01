@@ -1,0 +1,13 @@
+[
+{
+"Basic_theory":"What is testing",
+"HTTP":"Structures of HTTP Requests and Responses",
+"API testing":"Postman_API autotests",
+"Sniffing http web traffic":"Charles and Fiddler",
+"Dev Tools":"for Chrome Firefox",
+"Mobile testing":"iOS and Android",
+"Command line":"Terminal Linux GitBash",
+"SQL basics":"Select_Join_etc",
+"Postgres database":"installation_configuration and use"
+}
+]
